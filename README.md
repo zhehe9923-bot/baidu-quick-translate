@@ -1,0 +1,1 @@
+# baidu-quick-translate
