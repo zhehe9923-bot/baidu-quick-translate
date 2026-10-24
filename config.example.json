@@ -1,0 +1,20 @@
+{
+  "appid": "",
+  "secret": "",
+  "hotkey": "ctrl+alt+t",
+  "target_mode": "auto",
+  "service": "general",
+  "domain": "academic",
+  "quota_llm": 1000000,
+  "quota_general": 1000000,
+  "quota_domain": 500000,
+  "fallback_clipboard": true,
+  "auto_copy": true,
+  "request_timeout": 10,
+  "popup_seconds": 0,
+  "opacity": 0.97,
+  "show_source": true,
+  "minimize_to_tray": true,
+  "start_minimized": false,
+  "first_run_done": false
+}
